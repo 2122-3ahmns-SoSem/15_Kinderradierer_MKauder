@@ -1,1 +1,1 @@
-# 15_Kinderradierer_MKauder
+# 15_Kinderradierer_MKauder Kinderaddierer der Volksschulkindern zwischen 6 und 10 Jahren helfen soll, spielerisch einfache Mathematik Aufgaben zu lösen. Es gibt 3 Runden, in jeder Runde werden die Rechenaufgaben ein wenig schwerer. In der ersten Runde sollen fixe Werte per richtig oder falsch Auswahl gelöst werden. Die 2. Runde beinhaltet jeweils einen Variablen Wert in der Rechnung und in der 3. Runde sogar 2 Variable Werte. Alles wird per Eingabe gesteuert.
